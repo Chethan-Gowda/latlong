@@ -32,7 +32,13 @@ Download this application in to your localhost directory and you can run it via 
 
 Future Enhancement:
 
+
 Right now app fetches only 1 latitude + longitude data each from OSM & Google Map, app can be modified to fetch multiple data based on the requirement
+
+
+Autofill address can be added.. but here, user need to enter address.
+
+
 
 
 
